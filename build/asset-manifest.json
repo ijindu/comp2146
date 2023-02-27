@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ijindu/comp2146/static/css/main.073c9b0a.css",
+    "main.js": "/ijindu/comp2146/static/js/main.19b7fb8b.js",
+    "static/js/496.5d20d14f.chunk.js": "/ijindu/comp2146/static/js/496.5d20d14f.chunk.js",
+    "index.html": "/ijindu/comp2146/index.html",
+    "main.073c9b0a.css.map": "/ijindu/comp2146/static/css/main.073c9b0a.css.map",
+    "main.19b7fb8b.js.map": "/ijindu/comp2146/static/js/main.19b7fb8b.js.map",
+    "496.5d20d14f.chunk.js.map": "/ijindu/comp2146/static/js/496.5d20d14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19b7fb8b.js"
+  ]
+}
